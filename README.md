@@ -1,2 +1,2 @@
 # zenkins
-zenkins 배포 연습
+젠킨스 교육용 레파지토리
